@@ -1,0 +1,13 @@
+/* .image-left{
+    background-image: url(../assets/images/bg-main-mobile.png);
+    height: 240px;
+    width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+    .image-left{
+        background-image: url(../assets/images/bg-main-mobile.png);
+        height: 240px;
+        width: 100%;
+    }
+} */
